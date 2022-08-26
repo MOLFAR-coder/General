@@ -1,0 +1,6 @@
+THINGS TO COMPLETE THIS YEAR
+-> Google IT Automation with Python Complete
+-> Networking
+-> Linux Administration
+-> Complete Python(With APIs)
+-> Embedded C
