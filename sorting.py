@@ -1,3 +1,4 @@
+#! /usr/bin/env python3
 def bubble(list):
     while True:
         total_changes=0

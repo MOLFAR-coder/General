@@ -1,3 +1,4 @@
+#! /usr/bin/env python3
 n=int(input("Enter number: "))
 #[0,1,1,2,3,5,8] for n=7
 a=[]
