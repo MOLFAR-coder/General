@@ -1,0 +1,15 @@
+LONG TERM GOALS
+	-> CyberSecurity
+	-> System Architecture and Embedded Systems Programming
+	-> Theory of Computation
+	-> Artificial Intelligence and Machine Learning
+GOALS TO ACHIEVE IN 2023
+	-> Get a Job
+	-> Write at least 1 Research Paper
+	-> Complete Networking
+	-> Master Python and C
+	-> Complete CyberSecurity
+	-> Gain Competitive Programming Skills
+TEST YOUR SKILLS
+Task: Create an AI using Machine Learning and Programming Skills to automate various tasks of your life.
+ 
